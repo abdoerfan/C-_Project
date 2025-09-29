@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1719612374 source:e:\programming_projects\oop_adel-nassim\youtube_channel\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+
